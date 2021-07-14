@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(67, 145, 218);
+}
+.container{
+    width: 80%;
+    display: flex;
+    margin: auto;
+   
+}
+.input{
+    color: white;
+    width: 50%;
+}
+
+.output{
+    color: white;
+    width: 50%;
+}
+.input-text{
+    color: white;
+    border: 2px  rgb(105, 102, 102) solid;
+    background-color: rgb(65, 149, 228);
+    width: 80%;
+    height: 400px;
+    padding: 15px;
+   
+}
+.output-text{
+    background-color: rgb(71, 71, 71);
+    width: 80%;
+    height: 450px;
+}
